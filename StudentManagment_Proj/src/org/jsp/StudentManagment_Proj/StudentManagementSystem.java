@@ -42,9 +42,6 @@ public class StudentManagementSystem {
 
 	    // Method to add a new student
 	    private static void addStudent() {
-//	        System.out.print("Enter Student ID: ");
-//	        int id = scanner.nextInt();
-//	        scanner.nextLine(); // Consume newline
 
 	        System.out.print("Enter Student Name: ");
 	        String name = scanner.nextLine();
